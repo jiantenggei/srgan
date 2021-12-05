@@ -16,7 +16,7 @@ csdn 博客地址： https://no-coding.blog.csdn.net/article/details/121682740
 # conda虚拟环境一键导入：
 
 ```javascript
-conda env create -f tf2.5.yaml
+conda env create -f srgan_tf2.5.yaml
 ```
 其他问题私信：1308659229@qq.com
 
